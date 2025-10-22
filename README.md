@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Graduating in May 2026 with a Masters of Science in Computer Science from Texas A&M University<br>🎓Earned a Bachelor of Science in Computer Science from Michigan State University<br>🚀 Completed 3 Software Development Internships<br>🛠️ Skilled in React, Python, C++, JavaScript, and more<br><br>In the coming months, I'm excited to intern in the software development realm, where I can put my skills to work and contribute to solving modern problems. Let's connect and explore how I can be a valuable asset to your team!
+👨‍🎓 Graduating in May 2026 with a Masters of Science in Computer Science from Texas A&M University<br>🎓Earned a Bachelor of Science in Computer Science from Michigan State University<br>🚀 Made a Positive impact through 4 Software Development Internships<br>🛠️ Skilled in AWS, React, Python, C++, JavaScript, and more<br><br>In the coming months, I'm excited to work fulltime in the software development realm, where I can put my skills to work and contribute to solving modern problems. Let's connect and explore how I can be a valuable asset to your team!
 
 
 ## 🌐 Socials:
